@@ -11,11 +11,7 @@ Alzheimer’s disease is characterized by a decline in cholinergic neurotransmis
 - SwissADME for pharmacokinetic profiling
 - Lipinski’s Rule of Five for drug-likeness
 - Discovery Studio / PyMOL for visualization
-
-## 📁 Files Included
-- `
   
-
 ## 👩‍🎓 Author
 Aditi Mishra
 MSc Bioinformatics, Banaras Hindu University  
